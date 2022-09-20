@@ -1,5 +1,5 @@
 # Bacterial_genomics_software_tools
-A **very** non-exhaustive curated list of software tools for various aspects of prokaryote genomic analyses - mostly command line tools.  For online options, please see: https://github.com/zadyson/Online-genomics-software-tools
+A **very** non-exhaustive curated list of software tools for various aspects of prokaryote genomic analyses - mostly command line tools.  For online options, please see: https://github.com/zadyson/Online-genomics-software-tools.  Please note I am not affiliated with these tools, unless otherwise stated, nor have I explored their full functionality.
 
 ## Gene screening (e.g. AMR, virulence, plasmids)
 SRST2: https://github.com/katholt/srst2  
