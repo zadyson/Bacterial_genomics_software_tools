@@ -31,6 +31,11 @@ BEAST: https://beast.community/
 BEAST2: https://www.beast2.org/  
 TreeDater: https://github.com/emvolz/treedater  
 BactDating: https://github.com/xavierdidelot/BactDating  
+Skygrowth: https://github.com/mrc-ide/skygrowth  
+
+## Transmission chain reconstruction
+Transphylo: https://github.com/xavierdidelot/TransPhylo  
+Outbreaker2: https://github.com/reconhub/outbreaker2  
 
 ## Assembly
 Unicycler: https://github.com/rrwick/Unicycler  
