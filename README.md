@@ -55,6 +55,9 @@ SPAdes: https://github.com/ablab/spades
 PROKKA: https://github.com/tseemann/prokka  
 Bakta: https://github.com/oschwengers/bakta  
 
+## Pangenome
+Roary: https://sanger-pathogens.github.io/Roary/  
+
 ## Microbiome (16S)
 QIIME2: https://qiime2.org/  
 DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html  
