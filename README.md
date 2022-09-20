@@ -33,6 +33,6 @@ TreeDater: https://github.com/emvolz/treedater
 BactDating: https://github.com/xavierdidelot/BactDating  
 
 
-## Microbiome
+## Microbiome (16S)
 QIIME2: https://qiime2.org/  
 DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html  
