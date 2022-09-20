@@ -2,8 +2,8 @@
 A **very** non-exhaustive curated list of software tools for various aspects of prokaryote genomic analyses - mostly command line tools.  For online options, please see: https://github.com/zadyson/Online-genomics-software-tools
 
 ## Gene screening (e.g. AMR, virulence, plasmids)
-SRST2: https://github.com/katholt/srst2
-ARIBA: https://github.com/sanger-pathogens/ariba
+SRST2: https://github.com/katholt/srst2. \
+ARIBA: https://github.com/sanger-pathogens/ariba. \
 
 ## Plasmids
 MOB-suite: https://github.com/phac-nml/mob-suite.
