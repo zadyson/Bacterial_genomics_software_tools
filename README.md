@@ -9,30 +9,30 @@ ARIBA: https://github.com/sanger-pathogens/ariba
 MOB-suite: https://github.com/phac-nml/mob-suite 
 
 ## Prophages
-VIR-sorter: https://github.com/simroux/VirSorter
-VIR-sorter2: https://github.com/jiarong/VirSorter2
-ViPTreeGen: https://github.com/yosuken/ViPTreeGen
+VIR-sorter: https://github.com/simroux/VirSorter  
+VIR-sorter2: https://github.com/jiarong/VirSorter2  
+ViPTreeGen: https://github.com/yosuken/ViPTreeGen  
 
 ## Insertion Sequneces
-ISMapper: https://github.com/jhawkey/IS_mapper
+ISMapper: https://github.com/jhawkey/IS_mapper  
 
 ## Mapping and variant calling
-snippy; https://github.com/tseemann/snippy
-RedDog: https://github.com/katholt/RedDog
-ParSNP: https://harvest.readthedocs.io/en/latest/content/parsnp.html
+snippy; https://github.com/tseemann/snippy  
+RedDog: https://github.com/katholt/RedDog  
+ParSNP: https://harvest.readthedocs.io/en/latest/content/parsnp.html  
 
 ## Phylogenetic inference:
-RAxML: https://github.com/stamatak/standard-RAxML
-FastTree: http://www.microbesonline.org/fasttree/
-iqtree: http://www.iqtree.org/
+RAxML: https://github.com/stamatak/standard-RAxML  
+FastTree: http://www.microbesonline.org/fasttree/  
+iqtree: http://www.iqtree.org/  
 
 ## Phylodynamics
-BEAST: https://beast.community/
-BEAST2: https://www.beast2.org/
-TreeDater: https://github.com/emvolz/treedater
-BactDating: https://github.com/xavierdidelot/BactDating
+BEAST: https://beast.community/  
+BEAST2: https://www.beast2.org/  
+TreeDater: https://github.com/emvolz/treedater  
+BactDating: https://github.com/xavierdidelot/BactDating  
 
 
 ## Microbiome
-QIIME2: https://qiime2.org/
-DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html
+QIIME2: https://qiime2.org/  
+DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html  
