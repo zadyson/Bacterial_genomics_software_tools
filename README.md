@@ -34,6 +34,15 @@ TreeDater: https://github.com/emvolz/treedater
 BactDating: https://github.com/xavierdidelot/BactDating  
 Skygrowth: https://github.com/mrc-ide/skygrowth  
 
+## Clustering
+PopPUNK: https://poppunk.net/  
+HierBAPS: https://github.com/gtonkinhill/rhierbaps  
+FastBAPS: https://github.com/gtonkinhill/fastbaps   
+
+## Typing
+MLST: https://github.com/tseemann/mlst   
+Mykrobe: https://github.com/Mykrobe-tools/mykrobe  
+
 ## Transmission chain reconstruction
 Transphylo: https://github.com/xavierdidelot/TransPhylo  
 Outbreaker2: https://github.com/reconhub/outbreaker2  
