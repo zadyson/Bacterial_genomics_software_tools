@@ -32,6 +32,13 @@ BEAST2: https://www.beast2.org/
 TreeDater: https://github.com/emvolz/treedater  
 BactDating: https://github.com/xavierdidelot/BactDating  
 
+## Assembly
+Unicycler: https://github.com/rrwick/Unicycler  
+SPAdes: https://github.com/ablab/spades  
+
+## Annotation
+PROKKA: https://github.com/tseemann/prokka  
+Bakta: https://github.com/oschwengers/bakta  
 
 ## Microbiome (16S)
 QIIME2: https://qiime2.org/  
