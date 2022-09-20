@@ -4,6 +4,7 @@ A **very** non-exhaustive curated list of software tools for various aspects of 
 ## Gene screening (e.g. AMR, virulence, plasmids)
 SRST2: https://github.com/katholt/srst2  
 ARIBA: https://github.com/sanger-pathogens/ariba  
+AbritAMR ISO acredited AMR detection pipeline for public health labs: https://github.com/MDU-PHL/abritamr  
 
 ## Plasmids
 MOB-suite: https://github.com/phac-nml/mob-suite 
