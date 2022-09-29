@@ -17,6 +17,15 @@ ViPTreeGen: https://github.com/yosuken/ViPTreeGen
 ## Insertion Sequneces
 ISMapper: https://github.com/jhawkey/IS_mapper  
 
+## CRISPR-Cas
+CRISPR Comparison ToolKit (CCTK): https://github.com/Alan-Collins/CRISPR_comparison_toolkit   
+CRISPRCasFinder: https://crisprcas.i2bc.paris-saclay.fr/Home/Download  
+CRISPR Visualiser: github.com/CRISPRlab/CRISPRviz  
+CRISPRdisco: http://github.com/crisprlab/CRISPRdisco
+CRISPR-Detector: https://github.com/hlcas/CRISPRdetector  
+CRIPSR Recognition Tool (CRT): http://www.room220.com/crt  
+PILER-CR: http://www.drive5.com/pilercr  
+
 ## Mapping and variant calling
 snippy; https://github.com/tseemann/snippy  
 RedDog: https://github.com/katholt/RedDog  
