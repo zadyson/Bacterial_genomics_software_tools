@@ -70,3 +70,6 @@ Roary: https://sanger-pathogens.github.io/Roary/
 ## Microbiome (16S)
 QIIME2: https://qiime2.org/  
 DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html  
+
+## Read and assembly manipulation
+Fastaq: https://github.com/sanger-pathogens/Fastaq  
