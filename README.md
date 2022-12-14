@@ -42,12 +42,15 @@ BEAST2: https://www.beast2.org/
 TreeDater: https://github.com/emvolz/treedater  
 BactDating: https://github.com/xavierdidelot/BactDating  
 Skygrowth: https://github.com/mrc-ide/skygrowth  
-Treemer: https://git.scicore.unibas.ch/TBRU/Treemmer
+Treemer: https://git.scicore.unibas.ch/TBRU/Treemmer  
 
 ## Clustering
 PopPUNK: https://poppunk.net/  
 HierBAPS: https://github.com/gtonkinhill/rhierbaps  
 FastBAPS: https://github.com/gtonkinhill/fastbaps   
+
+## Haplotype networks  
+popART: https://github.com/jessicawleigh/popart.  
 
 ## Typing
 MLST: https://github.com/tseemann/mlst   
