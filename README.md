@@ -43,6 +43,7 @@ TreeDater: https://github.com/emvolz/treedater
 BactDating: https://github.com/xavierdidelot/BactDating  
 Skygrowth: https://github.com/mrc-ide/skygrowth  
 Treemer: https://git.scicore.unibas.ch/TBRU/Treemmer  
+TipDatingBEAST: https://github.com/cran/TipDatingBeast  
 
 ## Clustering
 PopPUNK: https://poppunk.net/  
