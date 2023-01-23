@@ -71,6 +71,7 @@ Bakta: https://github.com/oschwengers/bakta
 
 ## Pangenome
 Roary: https://sanger-pathogens.github.io/Roary/  
+Panstripe: https://github.com/gtonkinhill/panstripe/  
 
 ## Microbiome (16S)
 QIIME2: https://qiime2.org/  
