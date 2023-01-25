@@ -8,6 +8,7 @@ AbritAMR ISO acredited AMR detection pipeline for public health labs: https://gi
 
 ## Plasmids
 MOB-suite: https://github.com/phac-nml/mob-suite 
+PLSDB: https://ccb-microbe.cs.uni-saarland.de/plsdb  
 
 ## Prophages
 VIR-sorter: https://github.com/simroux/VirSorter  
