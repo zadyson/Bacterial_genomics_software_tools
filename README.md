@@ -80,3 +80,9 @@ DESeq2: https://joey711.github.io/phyloseq-extensions/DESeq2.html
 
 ## Read and assembly manipulation
 Fastaq: https://github.com/sanger-pathogens/Fastaq  
+
+## PCR primer design
+RUCS: https://bitbucket.org/genomicepidemiology/rucs/src/master/
+
+## In silico PCR
+https://anaconda.org/bioconda/ispcr.  
