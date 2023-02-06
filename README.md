@@ -84,6 +84,7 @@ Fastaq: https://github.com/sanger-pathogens/Fastaq
 ## PCR primer design and validation  
 RUCS: https://bitbucket.org/genomicepidemiology/rucs/src/master/
 PrimerBLAST: https://www.ncbi.nlm.nih.gov/tools/primer-blast/
+MFEPrimer: https://mfeprimer3.igenetech.com/specificity   
 
 ## In silico PCR
 https://anaconda.org/bioconda/ispcr
