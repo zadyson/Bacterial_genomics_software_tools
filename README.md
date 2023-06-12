@@ -51,6 +51,9 @@ PopPUNK: https://poppunk.net/
 HierBAPS: https://github.com/gtonkinhill/rhierbaps  
 FastBAPS: https://github.com/gtonkinhill/fastbaps   
 
+# LD  
+Lian: http://guanine.evolbio.mpg.de/cgi-bin/lian/lian.cgi.pl   
+
 ## Haplotype networks  
 popART: https://github.com/jessicawleigh/popart.  
 
