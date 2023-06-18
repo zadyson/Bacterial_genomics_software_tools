@@ -96,4 +96,5 @@ https://anaconda.org/bioconda/ispcr
 ## Machine learning from WGS  
 GenoLearn: https://genolearn.readthedocs.io/en/latest/  
 
-
+## Growth curve analysis: 
+Growthcurver: https://github.com/sprouffske/growthcurver  
