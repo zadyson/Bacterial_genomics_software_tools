@@ -53,6 +53,7 @@ FastBAPS: https://github.com/gtonkinhill/fastbaps
 
 # LD  
 Lian: http://guanine.evolbio.mpg.de/cgi-bin/lian/lian.cgi.pl   
+Ia measure via Poppr: https://grunwaldlab.github.io/poppr/reference/poppr-package.html
 
 ## Haplotype networks  
 popART: https://github.com/jessicawleigh/popart.  
