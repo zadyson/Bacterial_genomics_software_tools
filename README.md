@@ -98,3 +98,6 @@ GenoLearn: https://genolearn.readthedocs.io/en/latest/
 
 ## Growth curve analysis: 
 Growthcurver: https://github.com/sprouffske/growthcurver  
+
+## Distances
+PyANI: https://github.com/widdowquinn/pyani  
