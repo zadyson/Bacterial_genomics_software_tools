@@ -101,3 +101,6 @@ Growthcurver: https://github.com/sprouffske/growthcurver
 
 ## Distances
 PyANI: https://github.com/widdowquinn/pyani  
+
+## Phage taxonomy 
+PhaGCN: https://github.com/KennthShang/PhaGCN2.0  
