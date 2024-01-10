@@ -104,3 +104,6 @@ PyANI: https://github.com/widdowquinn/pyani
 
 ## Phage taxonomy 
 PhaGCN: https://github.com/KennthShang/PhaGCN2.0  
+
+## Shigella/EIEC
+ShigEiFinder:  https://github.com/LanLab/ShigEiFinder  
